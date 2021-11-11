@@ -1,0 +1,8 @@
+Hola profesor, queria aclarar que esta interaccion me vi obligado a hacerla solo por falta de comprimiso por parte de mis companieros de grupo(no tengo la letra enie en mi teclado), al igual que en las anteriores interacciones como se puede observar en cada repositorio
+a- La rama master queda con cada cambio realizado en las dos diferentes ramas
+b- En mi caso si pude ver los cambios realizados, pero para hacerlo en un proyecto se deberia consultar en el estado del repositorio atravez de la web
+c- git switch master
+git merge Sosa
+git add --all
+git commit -m ""
+git push urlrepo
